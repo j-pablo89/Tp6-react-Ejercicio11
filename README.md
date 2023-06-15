@@ -19,7 +19,7 @@ ___
 ## Clonar Repositorio
 
 ```
-https://github.com/j-pablo89/Tp6-React-Ejercicio1.git
+https://github.com/j-pablo89/Tp6-react-Ejercicio11.git
 ```
 ___
 
